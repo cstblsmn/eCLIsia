@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![Unlicense](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://unlicense.org/)
 
-**eCLIsia** is a command-line tool designed to read and search Bible translations offline. It supports parsing specific chapters and verses and searching for text within translations, and allows multiple translations to be viewed at the same time.
+**eCLIsia** (*CLI + ἐκκλησία, Greek for "church"*) is a command-line tool designed to read and search Bible translations offline. It supports parsing specific chapters and verses and searching for text within translations, and allows multiple translations to be viewed at the same time.
 
 ## Installation
 
